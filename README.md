@@ -1,14 +1,18 @@
-# Hyprland
+# Hyprland #
 
 ## Pre-installation ##
   1. Make sure that you have git installed.
-``` sudo pacman -S git ```
-  2. clone yay repo with git.
+
+```bash
+sudo pacman -S git 
+```
+  3. clone yay repo with git and cd into it.
+  
 ``` git clone https://aur.archlinux.org/yay.git ```
 ``` cd yay ```
-  3. Build and install yay (AUR helper).
+  4. Build and install yay (AUR helper).
 ``` makepkg -si ```
-  4. Install Hyprland with yay.
+  5. Install Hyprland with yay.
 ``` yay -S hyprland ```
 
 ## Installation ##
