@@ -1,2 +1,2 @@
 # Hyprland
-My hyprland config
+My Red hyprland config
