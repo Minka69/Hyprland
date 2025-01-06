@@ -1,0 +1,1 @@
+My Red hyprland config
