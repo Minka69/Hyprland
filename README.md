@@ -6,7 +6,7 @@
 ```bash
 sudo pacman -S git 
 ```
-  2. clone yay repo with git and cd into it.
+  2. Clone yay repo with git and cd into it.
   
 ```bash
 git clone https://aur.archlinux.org/yay.git
