@@ -1,0 +1,1 @@
+My Blue Hyprland Config
