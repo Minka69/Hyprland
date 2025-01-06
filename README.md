@@ -24,18 +24,18 @@ yay -S hyprland
 ```
 
 ## Installation ##
-  1.Clone the repo and cd into it.
+  1. Clone the repo and cd into it.
 ```bash
 git clone https://github.com/Minka69/Hyprland.git
 ```
 ```bash
 cd Hyprland
 ```
-  2.Change to the desired branch.
+  2. Change to the desired branch.
 ```bash
 git checkout <branch>
 ```
-  3.Copy the config files to their respective directories (adjust paths in the config files as needed).
+  3. Copy the config files to their respective directories (adjust paths in the config files as needed).
 ```bash
 cp -r * ~/.config/
 ```
