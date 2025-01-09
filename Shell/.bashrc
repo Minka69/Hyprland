@@ -17,7 +17,7 @@ fi
 
 # Put your fun stuff here.
 PS1='\[\e[1;38;2;0;255;255m\]\u@\h:\w\$ \[\e[0m\]'
-export LS_COLORS="di=01;197:$(echo $LS_COLORS)"
+eval "$(dircolors ~/.dircolors)"
 export PATH="$HOME/.cargo/bin:$PATH"
 neofetch
 export GDK_BACKEND=x11
