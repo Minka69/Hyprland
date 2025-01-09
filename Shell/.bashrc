@@ -17,7 +17,6 @@ fi
 
 # Put your fun stuff here.
 PS1='\[\e[1;38;2;0;255;255m\]\u@\h:\w\$ \[\e[0m\]'
-export OLLAMA_HOST=https://ollama.ml4.i2x.ai
 export LS_COLORS="di=01;197:$(echo $LS_COLORS)"
 export PATH="$HOME/.cargo/bin:$PATH"
 alias emerge='sudo emerge'
