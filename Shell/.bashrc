@@ -19,7 +19,6 @@ fi
 PS1='\[\e[1;38;2;0;255;255m\]\u@\h:\w\$ \[\e[0m\]'
 export LS_COLORS="di=01;197:$(echo $LS_COLORS)"
 export PATH="$HOME/.cargo/bin:$PATH"
-alias emerge='sudo emerge'
 neofetch
 export GDK_BACKEND=x11
 
