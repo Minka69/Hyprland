@@ -26,7 +26,7 @@ yay -S hyprland
 ## Installation ##
   1. Clone the repo and cd into it.
 ```bash
-git clone https://github.com/Minka69/Hyprland.git
+git clone https://github.com/5ee5/Hyprland.git
 ```
 ```bash
 cd Hyprland
