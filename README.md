@@ -1,1 +1,1 @@
-My Blue hyprland config
+My Cyberpunk-style hyprland config
