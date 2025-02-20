@@ -16,11 +16,7 @@ fi
 
 
 # Put your fun stuff here.
-PS1='\[\e[1;38;2;0;255;255m\]\u@\h:\w\$ \[\e[0m\]'
+
+PS1='\[\e[1;38;2;255;253;55m\]\u@\h:\w\$ \[\e[0m\]'
+export TERM=xterm-256color
 eval "$(dircolors ~/.dircolors)"
-export PATH="$HOME/.cargo/bin:$PATH"
-neofetch
-export GDK_BACKEND=x11
-
-# GDK_BACKEND=x11 gzdoom
-
