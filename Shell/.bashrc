@@ -19,4 +19,3 @@ fi
 
 PS1='\[\e[1;38;2;255;253;55m\]\u@\h:\w\$ \[\e[0m\]'
 export TERM=xterm-256color
-eval "$(dircolors ~/.dircolors)"
