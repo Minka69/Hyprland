@@ -1,5 +1,14 @@
 # Hyprland #
 
+## Feature list ##
+- [x] Neofetch config
+- [x] Waybar config
+- [x] Kitty config
+- [x] Wallpaper using hyprpaper
+- [x] Wlogout session manager
+- [x] wofi - application launcher
+
+
 ## Pre-installation ##
   1. Make sure that you have git installed.
 
@@ -43,3 +52,8 @@ cp -r * ~/.config/
 ```bash
 hyprctl dispatch exit
 ```
+
+
+## Features ##
+- [x] Task 1
+- [ ] 
