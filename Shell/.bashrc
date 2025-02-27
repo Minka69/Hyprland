@@ -17,8 +17,3 @@ fi
 
 # Put your fun stuff here.
 PS1='\[\033[01;38;2;191;2;63m\]\u@\h:\w\$ \[\033[00m\]'
-export LS_COLORS="di=38;2;191;2;63"
-neofetch
-
-# GDK_BACKEND=x11 gzdoom
-
