@@ -1,3 +1,3 @@
 My Cyberpunk-style hyprland config
 
-![image](https://github.com/user-attachments/assets/a65f6e46-df7c-44f8-9ae2-0d3ec5b4086c)
+![image](https://github.com/user-attachments/assets/9afbc88c-05aa-4fa2-81d7-8cacfb5d15f4)
