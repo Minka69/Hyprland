@@ -52,8 +52,3 @@ cp -r * ~/.config/
 ```bash
 hyprctl dispatch exit
 ```
-
-
-## Features ##
-- [x] Task 1
-- [ ] 
