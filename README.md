@@ -1,1 +1,1 @@
-My Red hyprland config
+My White 'n black hyprland config
