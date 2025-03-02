@@ -1,1 +1,1 @@
-My Blue hyprland config
+### My Blue hyprland config ###
