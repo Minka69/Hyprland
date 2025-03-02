@@ -1,1 +1,1 @@
-My Red hyprland config
+### My Red hyprland config ###
